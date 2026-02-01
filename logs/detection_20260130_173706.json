@@ -1,0 +1,29 @@
+{"timestamp": "2026-01-30T17:37:09.593738", "objects": [{"label": "person", "confidence": 0.663873016834259, "bbox": [313, 39, 636, 477]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:11.584474", "objects": [{"label": "person", "confidence": 0.911103367805481, "bbox": [158, 39, 638, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:13.544263", "objects": [{"label": "person", "confidence": 0.9055270552635193, "bbox": [157, 39, 638, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:14.608886", "objects": [{"label": "person", "confidence": 0.9138801097869873, "bbox": [157, 39, 638, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:15.656585", "objects": [{"label": "person", "confidence": 0.908769428730011, "bbox": [157, 39, 638, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:16.759189", "objects": [{"label": "person", "confidence": 0.9087331891059875, "bbox": [157, 40, 637, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:17.445616", "objects": [{"label": "person", "confidence": 0.9042696952819824, "bbox": [156, 39, 638, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:18.303720", "objects": [{"label": "person", "confidence": 0.906775176525116, "bbox": [156, 39, 638, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:19.086192", "objects": [{"label": "person", "confidence": 0.9065349102020264, "bbox": [157, 39, 638, 480]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:19.561045", "objects": [{"label": "person", "confidence": 0.9012963175773621, "bbox": [157, 40, 637, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:19.697579", "objects": [{"label": "person", "confidence": 0.894666314125061, "bbox": [157, 40, 636, 480]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:19.814089", "objects": [{"label": "person", "confidence": 0.9150829911231995, "bbox": [158, 43, 638, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:19.933813", "objects": [{"label": "person", "confidence": 0.9157469868659973, "bbox": [156, 40, 636, 480]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:20.055405", "objects": [{"label": "person", "confidence": 0.8961408734321594, "bbox": [150, 40, 631, 479]}, {"label": "remote", "confidence": 0.2886052429676056, "bbox": [507, 367, 547, 415]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:20.168784", "objects": [{"label": "person", "confidence": 0.821783185005188, "bbox": [153, 41, 615, 480]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:20.285607", "objects": [{"label": "person", "confidence": 0.9152267575263977, "bbox": [156, 45, 608, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:20.392598", "objects": [{"label": "person", "confidence": 0.9086390137672424, "bbox": [151, 46, 601, 480]}, {"label": "remote", "confidence": 0.4015941619873047, "bbox": [466, 371, 503, 417]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:20.508743", "objects": [{"label": "person", "confidence": 0.9279757142066956, "bbox": [134, 50, 599, 479]}, {"label": "remote", "confidence": 0.37064117193222046, "bbox": [469, 373, 504, 421]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:20.619905", "objects": [{"label": "person", "confidence": 0.903182864189148, "bbox": [106, 51, 597, 480]}, {"label": "remote", "confidence": 0.32018256187438965, "bbox": [476, 386, 508, 434]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:20.728984", "objects": [{"label": "person", "confidence": 0.9101804494857788, "bbox": [144, 58, 597, 480]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:20.839357", "objects": [{"label": "person", "confidence": 0.9101804494857788, "bbox": [144, 58, 597, 480]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:20.953611", "objects": [{"label": "person", "confidence": 0.8841638565063477, "bbox": [112, 64, 604, 480]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:21.061644", "objects": [{"label": "person", "confidence": 0.9012131094932556, "bbox": [108, 75, 614, 480]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:21.166971", "objects": [{"label": "person", "confidence": 0.8895279765129089, "bbox": [109, 84, 611, 480]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:21.271993", "objects": [{"label": "person", "confidence": 0.91359943151474, "bbox": [185, 92, 588, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:21.387420", "objects": [{"label": "person", "confidence": 0.9419082999229431, "bbox": [197, 95, 579, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:21.497399", "objects": [{"label": "person", "confidence": 0.9365449547767639, "bbox": [202, 102, 572, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:21.608267", "objects": [{"label": "person", "confidence": 0.947577714920044, "bbox": [208, 111, 571, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:37:21.718951", "objects": [{"label": "person", "confidence": 0.9451069831848145, "bbox": [200, 115, 572, 479]}, {"label": "tie", "confidence": 0.47480157017707825, "bbox": [323, 275, 406, 418]}], "humans": []}

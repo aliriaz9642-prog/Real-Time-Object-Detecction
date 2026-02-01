@@ -1,0 +1,29 @@
+{"timestamp": "2026-01-30T17:39:07.343213", "objects": [{"label": "person", "confidence": 0.9201645255088806, "bbox": [114, 142, 553, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:07.547848", "objects": [{"label": "person", "confidence": 0.9288328289985657, "bbox": [114, 143, 554, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:07.670514", "objects": [{"label": "person", "confidence": 0.9247134327888489, "bbox": [114, 143, 554, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:07.811777", "objects": [{"label": "person", "confidence": 0.9261446595191956, "bbox": [114, 145, 557, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:07.935355", "objects": [{"label": "person", "confidence": 0.9262149930000305, "bbox": [114, 143, 554, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:08.049324", "objects": [{"label": "person", "confidence": 0.9255011081695557, "bbox": [113, 144, 556, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:08.168927", "objects": [{"label": "person", "confidence": 0.9259364008903503, "bbox": [113, 144, 556, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:08.285838", "objects": [{"label": "person", "confidence": 0.9207172393798828, "bbox": [112, 143, 557, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:08.401975", "objects": [{"label": "person", "confidence": 0.9242239594459534, "bbox": [113, 143, 556, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:08.523383", "objects": [{"label": "person", "confidence": 0.9229139685630798, "bbox": [113, 143, 557, 479]}, {"label": "cup", "confidence": 0.3328397274017334, "bbox": [39, 177, 87, 244]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:08.644202", "objects": [{"label": "person", "confidence": 0.9282078742980957, "bbox": [112, 143, 557, 479]}, {"label": "cup", "confidence": 0.3354678750038147, "bbox": [39, 177, 87, 244]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:08.762547", "objects": [{"label": "person", "confidence": 0.9274153113365173, "bbox": [113, 143, 556, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:08.880498", "objects": [{"label": "person", "confidence": 0.9249171018600464, "bbox": [113, 143, 557, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:08.999024", "objects": [{"label": "person", "confidence": 0.9184122085571289, "bbox": [113, 141, 558, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:09.112450", "objects": [{"label": "person", "confidence": 0.9206490516662598, "bbox": [113, 142, 558, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:09.242097", "objects": [{"label": "person", "confidence": 0.9287773966789246, "bbox": [114, 139, 557, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:09.362563", "objects": [{"label": "person", "confidence": 0.9231746196746826, "bbox": [113, 135, 557, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:09.487295", "objects": [{"label": "person", "confidence": 0.9260390400886536, "bbox": [114, 134, 557, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:09.599273", "objects": [{"label": "person", "confidence": 0.9240415096282959, "bbox": [113, 134, 557, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:09.721726", "objects": [{"label": "person", "confidence": 0.9278839230537415, "bbox": [113, 134, 557, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:09.844670", "objects": [{"label": "person", "confidence": 0.9174745082855225, "bbox": [113, 134, 557, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:09.960829", "objects": [{"label": "person", "confidence": 0.930629312992096, "bbox": [115, 135, 558, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:10.079758", "objects": [{"label": "person", "confidence": 0.9154938459396362, "bbox": [114, 137, 558, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:10.199409", "objects": [{"label": "cell phone", "confidence": 0.9144713282585144, "bbox": [270, 162, 339, 315]}, {"label": "person", "confidence": 0.8977791666984558, "bbox": [130, 138, 559, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:10.319928", "objects": [{"label": "cell phone", "confidence": 0.9174016714096069, "bbox": [269, 160, 341, 313]}, {"label": "person", "confidence": 0.9028605222702026, "bbox": [134, 137, 560, 478]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:10.468767", "objects": [{"label": "cell phone", "confidence": 0.9232906699180603, "bbox": [268, 160, 341, 313]}, {"label": "person", "confidence": 0.9160749316215515, "bbox": [149, 137, 559, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:10.595209", "objects": [{"label": "person", "confidence": 0.9353138208389282, "bbox": [154, 137, 559, 479]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:10.720850", "objects": [{"label": "person", "confidence": 0.924329400062561, "bbox": [149, 136, 559, 479]}, {"label": "cell phone", "confidence": 0.3729105293750763, "bbox": [282, 209, 322, 305]}], "humans": []}
+{"timestamp": "2026-01-30T17:39:10.830994", "objects": [{"label": "person", "confidence": 0.928123414516449, "bbox": [153, 137, 559, 479]}], "humans": []}
